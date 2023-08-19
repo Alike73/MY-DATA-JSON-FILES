@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Beautiful Landscape",
+        "image": "https://images.unsplash.com/photo-1531219572328-a0171b4448a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGNpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60",
+        "description": "A stunning view of a serene landscape."
+    },
+    {
+        "id": 2,
+        "title": "Colorful Flowers",
+        "image": "https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fGNpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60",
+        "description": "Vibrant and colorful flowers in a garden."
+    },
+    {
+        "id": 3,
+        "title": "Majestic Mountains",
+        "image": "https://images.unsplash.com/photo-1517511620798-cec17d428bc0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fGNpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60",
+        "description": "Majestic mountains standing tall against the sky."
+    },
+    {
+        "id": 4,
+        "title": "Ocean Sunset",
+        "image": "https://images.unsplash.com/photo-1423768164017-3f27c066407f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGNpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60",
+        "description": "A breathtaking sunset over the ocean horizon."
+    },
+    {
+        "id": 5,
+        "title": "Enchanting Forest",
+        "image": "https://plus.unsplash.com/premium_photo-1676289157074-1afc4b1dfdea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGNpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60",
+        "description": "A magical forest with rays of sunlight filtering through."
+    },
+    {
+        "id": 6,
+        "title": "Urban Cityscape",
+        "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60",
+        "description": "A vibrant cityscape with tall buildings and lights."
+    },
+    {
+        "id": 7,
+        "title": "Calm Lake",
+        "image": "https://images.unsplash.com/photo-1444084316824-dc26d6657664?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60",
+        "description": "A peaceful lake surrounded by lush greenery."
+    },
+    {
+        "id": 8,
+        "title": "Snowy Mountain Peak",
+        "image": "https://images.unsplash.com/photo-1514565131-fce0801e5785?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNpdHl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=900&q=60",
+        "description": "A snow-covered mountain peak in winter."
+    },
+    {
+        "id": 9,
+        "title": "Desert Oasis",
+        "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=900&q=60",
+        "description": "An oasis in the middle of a vast desert."
+    },
+    {
+        "id": 10,
+        "title": "Serenity by the River",
+        "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=900&q=60",
+        "description": "Tranquility beside a gently flowing river."
+    }
+]
