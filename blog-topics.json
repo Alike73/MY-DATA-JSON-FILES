@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "topicTitle": "Topic name-1",
+    "topicDate": "January 1, 2022 by",
+    "author": "Alimzhan Islamkulov",
+
+    "topicText": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+    Officiis ipsa et sit similique autem cum dolore iste ipsum! 
+    Voluptates ex consequuntur maxime ipsam velit pariatur itaque veniam dolorum earum! Tempora ex voluptates eius error non veniam. 
+    Incidunt facilis nam minima reprehenderit voluptatem voluptate ipsam a quibusdam impedit, repellendus veritatis sequi quae cupiditate ullam atque. 
+    Veniam cumque unde earum nostrum eveniet incidunt repudiandae illum doloremque molestiae quos? 
+    Consequatur sapiente hic officia quis labore id rerum molestiae, impedit quisquam distinctio aliquam tempore dicta aperiam totam sit deleniti recusandae! 
+    Hic architecto dignissimos incidunt, magni deserunt nostrum impedit eum rem neque.",
+
+    "articleLink": "https://colorhunt.co/"
+  },
+
+  {
+    "id": 2,
+    "topicTitle": "Topic name-2",
+    "topicDate": "January 2, 2021 by",
+    "author": "Alimzhan Islamkulov",
+
+    "topicText": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+    Officiis ipsa et sit similique autem cum dolore iste ipsum! 
+    Voluptates ex consequuntur maxime ipsam velit pariatur itaque veniam dolorum earum! Tempora ex voluptates eius error non veniam. 
+    Incidunt facilis nam minima reprehenderit voluptatem voluptate ipsam a quibusdam impedit, repellendus veritatis sequi quae cupiditate ullam atque. 
+    Veniam cumque unde earum nostrum eveniet incidunt repudiandae illum doloremque molestiae quos? 
+    Consequatur sapiente hic officia quis labore id rerum molestiae, impedit quisquam distinctio aliquam tempore dicta aperiam totam sit deleniti recusandae! 
+    Hic architecto dignissimos incidunt, magni deserunt nostrum impedit eum rem neque.",
+
+    "articleLink": "https://colorhunt.co/"
+  },
+
+  {
+    "id": 3,
+    "topicTitle": "Topic name-3",
+    "topicDate": "January 3, 2022 by",
+    "author": "Alimzhan Islamkulov",
+
+    "topicText": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+    Officiis ipsa et sit similique autem cum dolore iste ipsum! 
+    Voluptates ex consequuntur maxime ipsam velit pariatur itaque veniam dolorum earum! Tempora ex voluptates eius error non veniam. 
+    Incidunt facilis nam minima reprehenderit voluptatem voluptate ipsam a quibusdam impedit, repellendus veritatis sequi quae cupiditate ullam atque. 
+    Veniam cumque unde earum nostrum eveniet incidunt repudiandae illum doloremque molestiae quos? 
+    Consequatur sapiente hic officia quis labore id rerum molestiae, impedit quisquam distinctio aliquam tempore dicta aperiam totam sit deleniti recusandae! 
+    Hic architecto dignissimos incidunt, magni deserunt nostrum impedit eum rem neque.",
+
+    "articleLink": "https://colorhunt.co/"
+  },
+
+  {
+    "id": 4,
+    "topicTitle": "Topic name-4",
+    "topicDate": "January 4, 2023 by",
+    "author": "Alimzhan Islamkulov",
+
+    "topicText": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+    Officiis ipsa et sit similique autem cum dolore iste ipsum! 
+    Voluptates ex consequuntur maxime ipsam velit pariatur itaque veniam dolorum earum! Tempora ex voluptates eius error non veniam. 
+    Incidunt facilis nam minima reprehenderit voluptatem voluptate ipsam a quibusdam impedit, repellendus veritatis sequi quae cupiditate ullam atque. 
+    Veniam cumque unde earum nostrum eveniet incidunt repudiandae illum doloremque molestiae quos? 
+    Consequatur sapiente hic officia quis labore id rerum molestiae, impedit quisquam distinctio aliquam tempore dicta aperiam totam sit deleniti recusandae! 
+    Hic architecto dignissimos incidunt, magni deserunt nostrum impedit eum rem neque.",
+
+    "articleLink": "https://colorhunt.co/"
+  },
+]
